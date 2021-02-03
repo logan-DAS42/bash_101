@@ -2,11 +2,7 @@
 
 ### The Command Line and Bash
 
-The **command line** allows you to interact with your operating system via text commands. With these commands you can create, delete, and modify files and folders (known as *directories*), manage processes, and more. Typically these commands are written with the language **Bash**, although there are alternatives. We will focus solely on Bash. 
-
-### Why learn to use the Command Line?
-
-
+The **command line** allows you to interact with an operating system via text commands. With these commands you can create, delete, and modify files and folders (known as *directories*), manage processes, and more. Typically these commands are written with the language **Bash**, although there are alternatives. We will focus solely on Bash. 
 
 ### Accessing the Command Line
 
